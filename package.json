@@ -2,6 +2,7 @@
   "name": "nepocitadlo",
   "version": "1.0.0",
   "description": "Mobile Blackjack card counter with thumb-friendly controls",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
